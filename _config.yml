@@ -7,10 +7,8 @@ twitter_username: ""
 github_username:  ""
 
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
-
 github:
 is_project_page: false
+
+include:
+  - pages
