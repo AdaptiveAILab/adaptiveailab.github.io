@@ -4,15 +4,20 @@ title: Geoffrey Kasenbacher
 role: PhD student
 description:
 permalink: /team/geoffrey
+photo: /assets/images/geoffrey.jpg
 ---
 
 # Geoffrey Kasenbacher
 
+<img src="{{page.photo}}" width="150px" style="float: left">
 
-Phone: +49 451 3101 5209
-Fax: +49 451 3101 5204
+Ratzeburger Allee 160\
+23562 Lübeck, Germany
 
-geoffrey.kasenbacher@mercedes-benz.com
+__Contact__:\
+[geoffrey.kasenbacher@mercedes-benz.com](mailto:geoffrey.kasenbacher@mercedes-benz.com)
+
+<br />
 
 ## Bio
 
