@@ -9,7 +9,7 @@ photo: /assets/images/geoffrey.jpg
 
 # Geoffrey Kasenbacher
 
-<img src="{{page.photo}}" width="150px" style="float: left">
+<img src="{{page.photo}}" width="150px" style="float: right">
 
 Ratzeburger Allee 160\
 23562 Lübeck, Germany
