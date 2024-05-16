@@ -5,7 +5,7 @@ role: PhD student
 description:
 permalink: /team/melvin
 
-photo: /assets/images/melvin.jpg
+photo: /assets/images/melvin.png
 ---
 
 # Melvin Ciurletti
