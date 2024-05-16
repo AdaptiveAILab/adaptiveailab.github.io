@@ -4,7 +4,7 @@ title: Coşku Can Horuz
 role: PhD student
 description:
 permalink: /team/cosku
-photo: /assets/images/cosku.jpg
+photo: /assets/images/cosku.JPG
 ---
 
 # Coşku Can Horuz
@@ -33,4 +33,4 @@ His research interests almost always include a time dimension. More concretely, 
 ## Publications
 
 Horuz, C. C., Karlbauer, M., Praditia, T., Butz, M. V., Oladyshkin, S., Nowak, W., and Otte, S. (2022). [Inferring boundary conditions in finite volume neural networks](https://link.springer.com/chapter/10.1007/978-3-031-15919-0_45). In *International Conference on Artificial Neural Networks* (ICANN), pages 538–549. Springer Nature Switzerland.\
-Horuz, C. C., Karlbauer, M., Praditia, T., Butz, M. V., Oladyshkin, S., Nowak, W., and Otte, S. (2023). Physical domain reconstruction with finite volume neural networks. *Applied Artificial Intelligence*, **37**(1), 2204261.
+Horuz, C. C., Karlbauer, M., Praditia, T., Butz, M. V., Oladyshkin, S., Nowak, W., and Otte, S. (2023). [Physical domain reconstruction with finite volume neural networks](https://doi.org/10.1080/08839514.2023.2204261). *Applied Artificial Intelligence*, **37**(1), 2204261.
