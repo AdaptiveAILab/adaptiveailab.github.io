@@ -10,6 +10,9 @@ photo: /assets/images/melvin.png
 
 # Melvin Ciurletti
 
+<img src="{{page.photo}}" width="150px" style="float: right">
+
+
 __Contact__:\
 [melvin.ciurletti@uni-tuebingen.de](mailto:melvin.ciurletti@uni-tuebingen.de)
 
