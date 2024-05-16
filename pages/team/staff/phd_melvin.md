@@ -11,7 +11,6 @@ photo: /assets/images/melvin.png
 # Melvin Ciurletti
 
 __Contact__:\
-
 [melvin.ciurletti@uni-tuebingen.de](mailto:melvin.ciurletti@uni-tuebingen.de)
 
 <br />
