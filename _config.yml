@@ -1,0 +1,14 @@
+title: Adaptive AI Lab
+email: 
+description: Algorithms for adaptive artificial intelligence
+baseurl: "" 
+url: "https://adaptiveailab.github.io" 
+twitter_username: ""
+github_username:  ""
+
+# Build settings
+github:
+is_project_page: false
+
+include:
+  - pages

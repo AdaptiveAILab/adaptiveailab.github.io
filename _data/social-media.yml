@@ -1,0 +1,29 @@
+email:
+    id: 'mail@adaptiveailab.com'
+    href: 'mailto:'
+    title: 'Email'
+    icon: 'iconemail'
+
+github:
+    id: 'AdaptiveAILab'
+    href: 'https://github.com/'
+    title: 'GitHub'
+    icon: 'icongithub'
+
+linkedin:
+    id: 'sebastian-otte'
+    href: 'https://www.linkedin.com/in/'
+    title: 'LinkedIn'
+    icon: 'iconlinkedin'
+
+youtube:
+    id: '@AdaptiveAILab'
+    href: 'https://www.youtube.com/'
+    title: 'YouTube'
+    icon: 'iconyoutube'
+
+x:
+    id: 'AdaptiveAILab'
+    href: 'https://x.com/'
+    title: 'X'
+    icon: 'iconx'
