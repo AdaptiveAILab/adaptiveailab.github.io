@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Ole von Hedemann-Heespe
+title: Ole von Hedemann-Heespen
 role: Master student
 description: Hypernetworks
 permalink:
-photo:
+photo: /assets/images/ole.jpg
 ---
 
 # {{page.title}}
