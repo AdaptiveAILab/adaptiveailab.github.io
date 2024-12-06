@@ -7,7 +7,7 @@ permalink: /team/cosku
 photo: /assets/images/cosku.jpg
 ---
 
-# Coşku Can Horuz
+# {{page.title}}
 
 <img src="{{page.photo}}" width="150px" style="float: right">
 
