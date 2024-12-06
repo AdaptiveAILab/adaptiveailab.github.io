@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ole Wilhelm von Hedemann-Heespe
+title: Ole von Hedemann-Heespe
 role: Master student
 description: Hypernetworks
 permalink:
